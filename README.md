@@ -2,10 +2,9 @@
   <img src="https://github.com/gdrenteriag/gdrenteriag/blob/main/Banner.png" width="800"/>
 </div>
 
-<div id="buttons" align="center">
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdrenteria/)
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://gerardorenteria.blog/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgdrenteria)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgdrenteria)]
 
 <div id="badges" align="center">
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gdrenteriag.gdrenteriag&color=00cf00" alt=""/>
