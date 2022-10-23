@@ -10,6 +10,6 @@
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gdrenteriag.gdrenteriag&color=00cf00" alt=""/>
 
 <h1>
-  Espero puedas encontrar algo que te pueda ayudar! 
+  ¡Probando varias cosas! 
   <img src="https://media.giphy.com/media/dwGJLOdbWULVRIBBfz/giphy.gif" width="30px"/>
 </h1>
